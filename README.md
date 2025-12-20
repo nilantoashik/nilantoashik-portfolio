@@ -4,6 +4,8 @@ Hi! I’m **Nilanto Ashik**, a passionate **Full Stack Web Developer** and desig
 
 I specialize in creating **responsive, interactive, and visually appealing websites** using modern web technologies. I also have expertise in **Wix** and **Squarespace**, building professional websites for clients efficiently.
 
+![Home Page](https://i.ibb.co.com/7JPR7d3g/1766169206793.jpg)
+
 ### 🔧 Skills & Expertise
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React *(if applicable)*  
 - **Design Tools:** Figma, Adobe XD  
@@ -17,8 +19,8 @@ I specialize in creating **responsive, interactive, and visually appealing websi
 - 🌐 Website: [Nilanto Ashik](https://nilantoashik.dev)  
 - 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/nilantoashik/) 
 - 🐙 GitHub: [github.com/nilantoashik](https://github.com/nilantoashik)  
-- ✉️ Email: [Gmail](nilantoashik@gmail.com) 
-![Home Page](https://i.ibb.co.com/7JPR7d3g/1766169206793.jpg)
+- ✉️ Email: [Gmail](nilantoashik@gmail.com)
+
 # 🌐 nilantoashik-portfolio
 
 **Personal Portfolio Website of Nilanto Ashik**  
