@@ -4,13 +4,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <!-- ✅ SEO Title -->
     <title>Nilanto Ashik – Full Stack Web Developer & Designer</title>
 
+    <!-- ✅ Meta Description -->
     <meta
       name="description"
       content="Nilanto Ashik is a Full Stack Web Developer and designer based in Dhaka, Bangladesh. Explore projects, skills, and professional work."
     />
 
+    <!-- ✅ Google / Social Preview -->
     <meta property="og:title" content="Nilanto Ashik – Web Developer Portfolio" />
     <meta
       property="og:description"
@@ -18,15 +21,17 @@
     />
     <meta property="og:url" content="https://nilantoashik.dev" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://i.ibb.co/cSn293z3/favicon.jpg" />
 
-   <!-- Favicons - Responsive for all devices -->
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    
+    <!-- ✅ STRONG favicon hint for Google (MOST IMPORTANT) -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+
+    <!-- ✅ Standard favicon set -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- ✅ Structured Data -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -57,6 +62,8 @@
         height: 100%;
         border: 0;
       }
+
+      /* ✅ Hidden SEO content (Google reads, users don’t see) */
       .seo-content {
         position: absolute;
         left: -9999px;
@@ -69,6 +76,7 @@
   </head>
 
   <body>
+    <!-- ✅ Crawlable SEO Content -->
     <main class="seo-content">
       <h1>Nilanto Ashik – Full Stack Web Developer & Designer</h1>
 
@@ -88,6 +96,7 @@
       </p>
     </main>
 
+    <!-- ❗ iframe stays EXACTLY the same -->
     <iframe
       src="https://nilantoashik-portfolio.figma.site"
       title="Nilanto Ashik Portfolio"
@@ -95,6 +104,7 @@
       loading="eager"
     ></iframe>
 
+    <!-- ✅ No-JS fallback -->
     <noscript>
       <p style="color: white; text-align: center; padding: 16px">
         Hi! I’m Nilanto Ashik, a Full Stack Web Developer and designer based in Dhaka, Bangladesh.
@@ -103,4 +113,3 @@
     </noscript>
   </body>
 </html>
-
